@@ -31,7 +31,9 @@ A job portal developed using Ruby on Rails which can help job seekers connect to
 	`cd DireWolf-Job-Portal`
 
 3. Go into the bin folder and run the command *rails server*.
+
 	`cd bin`
+	
 	`rails server`
 
 4. Go to localhost:3000 on your web browser to see the app running on your local machine.
