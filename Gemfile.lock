@@ -77,7 +77,7 @@ GEM
     multi_test (0.1.1)
     nokogiri (1.6.3.1-x86-mingw32)
       mini_portile (= 0.6.0)
-    pg (0.13.2-x86-mingw32)
+    pg (0.18.4-x86-mingw32)
     rack (1.5.2)
     rack-test (0.6.2)
       rack (>= 1.0)
@@ -146,7 +146,7 @@ DEPENDENCIES
   database_cleaner
   jbuilder (~> 2.0)
   jquery-rails
-  pg
+  pg (~> 0.18.0.pre20141117110243)
   rails (= 4.1.6)
   rails_12factor
   sass-rails (~> 4.0.3)
