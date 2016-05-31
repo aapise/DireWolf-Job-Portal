@@ -32,9 +32,6 @@ A job portal developed using Ruby on Rails which can help job seekers connect to
 
 3. Go into the bin folder and run the command *rails server*.
 
-	`cd bin`
-	`rails server`
-
 4. Go to localhost:3000 on your web browser to see the app running on your local machine.
 
 Since this repository ignores the database and other data, you might want to add your own functionality for the database.
