@@ -23,6 +23,8 @@ A job portal developed using Ruby on Rails which can help job seekers connect to
 
 10. Extra Credit- Email functionality implemented.
 
+**Heroku Deployment in progress**
+
 ###To run the app demo:
 
 1. [Install Ruby and Rails and all other requisites.](http://guides.rubyonrails.org/getting_started.html)
